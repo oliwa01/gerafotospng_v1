@@ -1,0 +1,100 @@
+name: gerafotospng_v1
+
+description: A new Flutter project.
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.13.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+  cupertino_icons: ^1.0.2
+  font_awesome_flutter: ^9.0.0
+  url_launcher: ^6.0.4
+
+  firebase: ^9.0.1
+  firebase_core: ^1.2.0
+  firebase_auth: ^1.1.4
+  cloud_firestore: ^2.2.0
+  firebase_storage: ^8.1.0
+  vsync_provider: ^0.5.0
+
+
+
+  time: ^2.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+
+  uses-material-design: true
+  assets:
+    - assets/images/sul/lua-0.png
+    - assets/images/sul/lua-1.png
+    - assets/images/sul/lua-2.png
+    - assets/images/sul/lua-3.png
+    - assets/images/sul/lua-4.png
+    - assets/images/sul/lua-5.png
+    - assets/images/sul/lua-6.png
+    - assets/images/sul/lua-7.png
+    - assets/images/sul/lua-8.png
+    - assets/images/sul/lua-9.png
+    - assets/images/sul/lua-10.png
+    - assets/images/sul/lua-11.png
+    - assets/images/sul/lua-12.png
+    - assets/images/sul/lua-13.png
+    - assets/images/sul/lua-14.png
+    - assets/images/sul/lua-15.png
+    - assets/images/sul/lua-16.png
+    - assets/images/sul/lua-17.png
+    - assets/images/sul/lua-18.png
+    - assets/images/sul/lua-19.png
+    - assets/images/sul/lua-20.png
+    - assets/images/sul/lua-21.png
+    - assets/images/sul/lua-22.png
+    - assets/images/sul/lua-23.png
+    - assets/images/sul/lua-24.png
+    - assets/images/sul/lua-25.png
+    - assets/images/sul/lua-26.png
+    - assets/images/sul/lua-27.png
+    - assets/images/sul/lua-28.png
+    - assets/images/sul/lua-29.png
+    - assets/images/norte/lua-0.png
+    - assets/images/norte/lua-1.png
+    - assets/images/norte/lua-2.png
+    - assets/images/norte/lua-3.png
+    - assets/images/norte/lua-4.png
+    - assets/images/norte/lua-5.png
+    - assets/images/norte/lua-6.png
+    - assets/images/norte/lua-7.png
+    - assets/images/norte/lua-8.png
+    - assets/images/norte/lua-9.png
+    - assets/images/norte/lua-10.png
+    - assets/images/norte/lua-11.png
+    - assets/images/norte/lua-12.png
+    - assets/images/norte/lua-13.png
+    - assets/images/norte/lua-14.png
+    - assets/images/norte/lua-15.png
+    - assets/images/norte/lua-16.png
+    - assets/images/norte/lua-17.png
+    - assets/images/norte/lua-18.png
+    - assets/images/norte/lua-19.png
+    - assets/images/norte/lua-20.png
+    - assets/images/norte/lua-21.png
+    - assets/images/norte/lua-22.png
+    - assets/images/norte/lua-23.png
+    - assets/images/norte/lua-24.png
+    - assets/images/norte/lua-25.png
+    - assets/images/norte/lua-26.png
+    - assets/images/norte/lua-27.png
+    - assets/images/norte/lua-28.png
+    - assets/images/norte/lua-29.png
+    - assets/images/
