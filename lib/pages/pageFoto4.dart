@@ -224,6 +224,7 @@ class _PageFoto4State extends State<PageFoto4> {
   @override
   void initState() {
     super.initState();
+
     _gravaDados();
   }
 
@@ -290,7 +291,7 @@ class _PageFoto4State extends State<PageFoto4> {
         timedb1: _timedb4,
         timenasc1: _timenasc4);
 
-    //RenderObject? rb = _containerKey.currentContext!.findRenderObject();
+    //RenderObject? rb = _containerKey.currentContext!.findRenderObject()
 
     void convertWidgetToImage() async {
       final RenderRepaintBoundary boundary = _containerKey.currentContext!

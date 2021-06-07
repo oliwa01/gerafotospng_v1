@@ -262,7 +262,8 @@ class _ListPageState extends State<ListPage> {
                                 numberPicture: 1,
                                 dataPicket1: (document["dataPicket1"]),
                                 nome1: (document["nome1"]),
-                                distanciadb1: (document["distanciadb1"]),
+                                distanciadb1:
+                                    (document["distanciadb1"]).roundToDouble(),
                                 luadiadb1: (document["luadiadb1"]),
                                 proximodb: (document["proximodb"]),
                                 signo1: (document["signo1"]),
@@ -303,7 +304,8 @@ class _ListPageState extends State<ListPage> {
                                 numberPicture: 2,
                                 dataPicket1: (document["dataPicket1"]),
                                 nome1: (document["nome1"]),
-                                distanciadb1: (document["distanciadb1"]),
+                                distanciadb1:
+                                    (document["distanciadb1"]).roundToDouble(),
                                 luadiadb1: (document["luadiadb1"]),
                                 proximodb: (document["proximodb"]),
                                 signo1: (document["signo1"]),
@@ -312,7 +314,8 @@ class _ListPageState extends State<ListPage> {
                                 hemisferio: (document["hemisferio"]),
                                 dataPicket2: (document["dataPicket2"]),
                                 nome2: (document["nome2"]),
-                                distanciadb2: (document["distanciadb2"]),
+                                distanciadb2:
+                                    (document["distanciadb2"]).roundToDouble(),
                                 luadiadb2: (document["luadiadb2"]),
                                 proximodb2: (document["proximodb2"]),
                                 signo2: (document["signo2"]),
@@ -366,7 +369,8 @@ class _ListPageState extends State<ListPage> {
                                 numberPicture: 3,
                                 dataPicket1: (document["dataPicket1"]),
                                 nome1: (document["nome1"]),
-                                distanciadb1: (document["distanciadb1"]),
+                                distanciadb1:
+                                    (document["distanciadb1"]).roundToDouble(),
                                 luadiadb1: (document["luadiadb1"]),
                                 proximodb: (document["proximodb"]),
                                 signo1: (document["signo1"]),
@@ -375,7 +379,8 @@ class _ListPageState extends State<ListPage> {
                                 hemisferio: (document["hemisferio"]),
                                 dataPicket2: (document["dataPicket2"]),
                                 nome2: (document["nome2"]),
-                                distanciadb2: (document["distanciadb2"]),
+                                distanciadb2:
+                                    (document["distanciadb2"]).roundToDouble(),
                                 luadiadb2: (document["luadiadb2"]),
                                 proximodb2: (document["proximodb2"]),
                                 signo2: (document["signo2"]),
@@ -384,7 +389,8 @@ class _ListPageState extends State<ListPage> {
                                 hemisferio2: (document["hemisferio2"]),
                                 dataPicket3: (document["dataPicket3"]),
                                 nome3: (document["nome3"]),
-                                distanciadb3: (document["distanciadb3"]),
+                                distanciadb3:
+                                    (document["distanciadb3"]).roundToDouble(),
                                 luadiadb3: (document["luadiadb3"]),
                                 proximodb3: (document["proximodb3"]),
                                 signo3: (document["signo3"]),
@@ -445,10 +451,11 @@ class _ListPageState extends State<ListPage> {
                                 email: widget.email,
                                 codVenda: (document["codVenda"]),
                                 nomefamilia: (document["nomefamilia"]),
-                                numberPicture: 3,
+                                numberPicture: 4,
                                 dataPicket1: (document["dataPicket1"]),
                                 nome1: (document["nome1"]),
-                                distanciadb1: (document["distanciadb1"]),
+                                distanciadb1:
+                                    (document["distanciadb1"]).roundToDouble(),
                                 luadiadb1: (document["luadiadb1"]),
                                 proximodb: (document["proximodb"]),
                                 signo1: (document["signo1"]),
@@ -457,7 +464,8 @@ class _ListPageState extends State<ListPage> {
                                 hemisferio: (document["hemisferio"]),
                                 dataPicket2: (document["dataPicket2"]),
                                 nome2: (document["nome2"]),
-                                distanciadb2: (document["distanciadb2"]),
+                                distanciadb2:
+                                    (document["distanciadb2"]).roundToDouble(),
                                 luadiadb2: (document["luadiadb2"]),
                                 proximodb2: (document["proximodb2"]),
                                 signo2: (document["signo2"]),
@@ -466,7 +474,8 @@ class _ListPageState extends State<ListPage> {
                                 hemisferio2: (document["hemisferio2"]),
                                 dataPicket3: (document["dataPicket3"]),
                                 nome3: (document["nome3"]),
-                                distanciadb3: (document["distanciadb3"]),
+                                distanciadb3:
+                                    (document["distanciadb3"]).roundToDouble(),
                                 luadiadb3: (document["luadiadb3"]),
                                 proximodb3: (document["proximodb3"]),
                                 signo3: (document["signo3"]),
@@ -475,7 +484,8 @@ class _ListPageState extends State<ListPage> {
                                 hemisferio3: (document["hemisferio3"]),
                                 dataPicket4: (document["dataPicket4"]),
                                 nome4: (document["nome4"]),
-                                distanciadb4: (document["distanciadb4"]),
+                                distanciadb4:
+                                    (document["distanciadb4"]).roundToDouble(),
                                 luadiadb4: (document["luadiadb4"]),
                                 proximodb4: (document["proximodb4"]),
                                 signo4: (document["signo4"]),
@@ -552,7 +562,8 @@ class _ListPageState extends State<ListPage> {
                                 numberPicture: 3,
                                 dataPicket1: (document["dataPicket1"]),
                                 nome1: (document["nome1"]),
-                                distanciadb1: (document["distanciadb1"]),
+                                distanciadb1:
+                                    (document["distanciadb1"]).roundToDouble(),
                                 luadiadb1: (document["luadiadb1"]),
                                 proximodb: (document["proximodb"]),
                                 signo1: (document["signo1"]),
@@ -561,7 +572,8 @@ class _ListPageState extends State<ListPage> {
                                 hemisferio: (document["hemisferio"]),
                                 dataPicket2: (document["dataPicket2"]),
                                 nome2: (document["nome2"]),
-                                distanciadb2: (document["distanciadb2"]),
+                                distanciadb2:
+                                    (document["distanciadb2"]).roundToDouble(),
                                 luadiadb2: (document["luadiadb2"]),
                                 proximodb2: (document["proximodb2"]),
                                 signo2: (document["signo2"]),
@@ -570,7 +582,8 @@ class _ListPageState extends State<ListPage> {
                                 hemisferio2: (document["hemisferio2"]),
                                 dataPicket3: (document["dataPicket3"]),
                                 nome3: (document["nome3"]),
-                                distanciadb3: (document["distanciadb3"]),
+                                distanciadb3:
+                                    (document["distanciadb3"]).roundToDouble(),
                                 luadiadb3: (document["luadiadb3"]),
                                 proximodb3: (document["proximodb3"]),
                                 signo3: (document["signo3"]),
@@ -579,7 +592,8 @@ class _ListPageState extends State<ListPage> {
                                 hemisferio3: (document["hemisferio3"]),
                                 dataPicket4: (document["dataPicket4"]),
                                 nome4: (document["nome4"]),
-                                distanciadb4: (document["distanciadb4"]),
+                                distanciadb4:
+                                    (document["distanciadb4"]).roundToDouble(),
                                 luadiadb4: (document["luadiadb4"]),
                                 proximodb4: (document["proximodb4"]),
                                 signo4: (document["signo4"]),
@@ -588,7 +602,8 @@ class _ListPageState extends State<ListPage> {
                                 hemisferio4: (document["hemisferio4"]),
                                 dataPicket5: (document["dataPicket5"]),
                                 nome5: (document["nome5"]),
-                                distanciadb5: (document["distanciadb5"]),
+                                distanciadb5:
+                                    (document["distanciadb5"]).roundToDouble(),
                                 luadiadb5: (document["luadiadb5"]),
                                 proximodb5: (document["proximodb5"]),
                                 signo5: (document["signo5"]),
@@ -674,7 +689,8 @@ class _ListPageState extends State<ListPage> {
                                 numberPicture: 6,
                                 dataPicket1: (document["dataPicket1"]),
                                 nome1: (document["nome1"]),
-                                distanciadb1: (document["distanciadb1"]),
+                                distanciadb1:
+                                    (document["distanciadb1"]).roundToDouble(),
                                 luadiadb1: (document["luadiadb1"]),
                                 proximodb: (document["proximodb"]),
                                 signo1: (document["signo1"]),
@@ -683,7 +699,8 @@ class _ListPageState extends State<ListPage> {
                                 hemisferio: (document["hemisferio"]),
                                 dataPicket2: (document["dataPicket2"]),
                                 nome2: (document["nome2"]),
-                                distanciadb2: (document["distanciadb2"]),
+                                distanciadb2:
+                                    (document["distanciadb2"]).roundToDouble(),
                                 luadiadb2: (document["luadiadb2"]),
                                 proximodb2: (document["proximodb2"]),
                                 signo2: (document["signo2"]),
@@ -692,7 +709,8 @@ class _ListPageState extends State<ListPage> {
                                 hemisferio2: (document["hemisferio2"]),
                                 dataPicket3: (document["dataPicket3"]),
                                 nome3: (document["nome3"]),
-                                distanciadb3: (document["distanciadb3"]),
+                                distanciadb3:
+                                    (document["distanciadb3"]).roundToDouble(),
                                 luadiadb3: (document["luadiadb3"]),
                                 proximodb3: (document["proximodb3"]),
                                 signo3: (document["signo3"]),
@@ -701,7 +719,8 @@ class _ListPageState extends State<ListPage> {
                                 hemisferio3: (document["hemisferio3"]),
                                 dataPicket4: (document["dataPicket4"]),
                                 nome4: (document["nome4"]),
-                                distanciadb4: (document["distanciadb4"]),
+                                distanciadb4:
+                                    (document["distanciadb4"]).roundToDouble(),
                                 luadiadb4: (document["luadiadb4"]),
                                 proximodb4: (document["proximodb4"]),
                                 signo4: (document["signo4"]),
@@ -710,7 +729,8 @@ class _ListPageState extends State<ListPage> {
                                 hemisferio4: (document["hemisferio4"]),
                                 dataPicket5: (document["dataPicket5"]),
                                 nome5: (document["nome5"]),
-                                distanciadb5: (document["distanciadb5"]),
+                                distanciadb5:
+                                    (document["distanciadb5"]).roundToDouble(),
                                 luadiadb5: (document["luadiadb5"]),
                                 proximodb5: (document["proximodb5"]),
                                 signo5: (document["signo5"]),
@@ -719,7 +739,8 @@ class _ListPageState extends State<ListPage> {
                                 hemisferio5: (document["hemisferio5"]),
                                 dataPicket6: (document["dataPicket6"]),
                                 nome6: (document["nome6"]),
-                                distanciadb6: (document["distanciadb6"]),
+                                distanciadb6:
+                                    (document["distanciadb6"]).roundToDouble(),
                                 luadiadb6: (document["luadiadb6"]),
                                 proximodb6: (document["proximodb6"]),
                                 signo6: (document["signo6"]),
